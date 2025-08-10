@@ -2,7 +2,7 @@
 <h3 align="center">Java | Python | Linux | AWS| Web Devlopment |</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+%7C+MongoDB+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
