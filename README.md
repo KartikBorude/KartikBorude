@@ -32,16 +32,13 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omkar-memane-91b13b28b/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik-borude-06b007314/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/OmkaR_Memane09/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://x.com/OmkarR_Memane09?t=HM7Le0XoZUPb-36QqLg60Q&s=08" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/omkar_memane_09_" target="_blank">
+  <a href="https://www.instagram.com/its_kartikk_01/?hl=en" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
