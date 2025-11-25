@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/kartik-borude-06b007314/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/OmkarR_Memane09?t=HM7Le0XoZUPb-36QqLg60Q&s=08" target="_blank">
+  <a href="https://x.com/Kartikborude01" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/its_kartikk_01/?hl=en" target="_blank">
