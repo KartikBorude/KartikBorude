@@ -2,14 +2,14 @@
 <h3 align="center"> Docker | Linux | AWS| Web Devlopment | Java | Python | Kubernetes |</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+ Engineer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me:
 - 🎓 Student passionate about technology and real-world problem solving.
-- 💻 Exploring Web Development,Linux , AWS and Database Management.
+- 💻 Exploring Web Development,Linux , AWS Services, Database Management , Docker , Kubernetes.
 - 📈 Consistently sharpening my skills through projects and challenges.
 - 🚀 Believer of **"Small steps every day lead to big results."**
 
