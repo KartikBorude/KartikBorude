@@ -28,6 +28,12 @@
 </p>
 
 ---
+## ☁️ What I Do
+- 🧩 Build and deploy containerized applications using **Docker**.  
+- 🛠️ Automate infrastructure and deployments on **AWS**.  
+- 🔄 Manage code and version control with **Git** and **GitHub**.  
+- 🧰 Work in **Linux environments** to ensure system reliability.  
+- 🌍 Explore **CI/CD pipelines**, **cloud automation**, and **DevOps workflows**.
 
 ## 🌐 Connect with Me:
 
